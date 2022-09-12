@@ -1,0 +1,10 @@
+/*Exemple*/
+<style>
+  img { height: 250px; width: 250px; }
+</style>
+<img src="coolPic500x500" alt="A most excellent picture">
+/*Solusion*/
+<style>
+  img { height: 100px; width: 100px; }
+</style>
+<img src="https://s3.amazonaws.com/freecodecamp/FCCStickers-CamperBot200x200.jpg" alt="freeCodeCamp sticker that says 'Because CamperBot Cares'">
